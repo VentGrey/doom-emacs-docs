@@ -1,12 +1,12 @@
-
 ---
 layout: default
-title: IRC
+title: notmuch
 nav_order: 3
 has_children: true
 parent: App
-permalink: /docs/modules/app/irc
+permalink: /docs/modules/app/notmuch
 ---
+
 
 # This section has not been documented yet
 
