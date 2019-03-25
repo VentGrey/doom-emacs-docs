@@ -2,7 +2,7 @@
 layout: default
 title: Twitter
 nav_order: 3
-has_children: true
+has_children: false
 parent: App
 permalink: /docs/modules/app/twitter
 ---
