@@ -2,7 +2,7 @@
 layout: default
 title: Parinfier
 nav_order: 3
-has_children: true
+has_children: false
 parent: Config
 permalink: /docs/modules/editor/parinfier
 ---
